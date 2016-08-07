@@ -1,0 +1,22 @@
+{
+  "name": "project-familybusiness-database",
+  "version": "1.0.0",
+  "description": "Database manager for the family business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielDCelery/project-familybusiness-database.git"
+  },
+  "author": "Gabriel D. Celery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielDCelery/project-familybusiness-database/issues"
+  },
+  "homepage": "https://github.com/GabrielDCelery/project-familybusiness-database#readme",
+  "dependencies": {
+    "sequelize": "^3.23.6"
+  }
+}
